@@ -1,0 +1,68 @@
+Program recognise the following only
+Make sure you keep your internet always connected
+
+good morning alex
+tell time
+tell date
+alex sleep
+open youtube in browser
+open youtube and search
+open google
+show desktop
+minimise all
+show all
+open a file
+open browser and search
+open web browser
+open vs code
+open word
+open powerpoint
+open excel
+show notifications
+open action center
+turn night light on
+turn night light off
+take screenshot now
+show screenshots
+open task manager
+open control panel
+open command prompt
+show hidden icons
+close hidden icons
+open search
+switch tabs
+switch 2 tabs
+open settings
+open file explorer
+open camera
+open photos
+open office
+open calculator
+open microsoft store
+open clock
+open mail
+open calender
+open weather
+open game bar
+open adobe pdf
+open music
+close current window
+press tab
+press enter
+press backspace
+press space
+type
+press escape
+sleep the laptop
+lock the laptop
+backspace
+page down
+page up
+show system info
+check for windows update
+increase volume
+decrease volume
+mute now
+unmute
+set brightness
+exit program
