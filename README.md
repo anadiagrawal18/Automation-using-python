@@ -8,6 +8,6 @@ Made using different python libraries to automate some of the daily done tasks w
 
 
 Program recognise the functions stated in functions.txt
-It has different location access to the programs that have to be changed for each pc seperately and is not same for any pc, this is a bit inconvinient but only requires one time change but helps to make the code run smoother and faster
+It has different location access to the programs that have to be changed for each pc seperately and is not same for any pc.
 
 <<< Make sure you keep your internet always connected. >>> 
